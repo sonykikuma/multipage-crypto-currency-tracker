@@ -2,7 +2,6 @@ import axios from "axios";
 import { useParams } from "react-router-dom";
 import React, { useState, useEffect } from "react";
 import DOMPurify from "dompurify";
-//import CoinInfo from "../components/CoinInfo";
 
 import "./Coin.css";
 
